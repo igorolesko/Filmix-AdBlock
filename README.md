@@ -1,6 +1,6 @@
 # Filmix-AdBlock
 UserScript для блокування реклами на Filmix
-# 🎬 Filmix Upgrade
+# 🎬 Filmix AdBlock
 
 ![Version](https://img.shields.io/badge/version-0.5-blue)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Supported-brightgreen)
@@ -40,7 +40,7 @@ UserScript для блокування реклами на Filmix
 ### Спосіб 2: Ручне встановлення
 1. Відкрийте Tampermonkey → **"Create a new script"**
 2. Видаліть весь код за замовчуванням
-3. Скопіюйте код з [`filmix-upgrade.user.js`](filmix-upgrade.user.js)
+3. Скопіюйте код з (Filmix AdBlock v2.js)
 4. Вставте та натисніть `Ctrl+S` (зберегти)
 
 ## 🚫 Заблоковані домени
